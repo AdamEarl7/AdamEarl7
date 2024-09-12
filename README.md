@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @AdamEarl7
-- 👀 I’m interested in Computer Science, game design, and learning new things!
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Anything that inspires me
-- 📫 How to reach me: Through Github 
+- 👀 I’m interested in Computer Science, automation, game design, and learning new things!
+- 🌱 I’m currently learning Python, R, and assembly.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Destiny 2 Enthusiast 
+- ⚡ Fun fact: Horrendous golfer, but excellent golf cart driver.
 
 <!---
 AdamEarl7/AdamEarl7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
