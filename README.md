@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AdamEarl7
+- 👋 Hi, I’m Adam
 - 👀 I’m interested in Computer Science, automation, game design, and learning new things!
-- 🌱 I’m currently learning Python, R, and assembly.
+- 🌱 I’m currently learning Python, R, and Assembly.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Horrendous golfer, but excellent golf cart driver.
 
